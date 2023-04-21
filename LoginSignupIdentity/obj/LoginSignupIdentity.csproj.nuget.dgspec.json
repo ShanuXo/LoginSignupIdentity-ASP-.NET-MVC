@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shanu.kumar2\\source\\repos\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj": {}
+    "C:\\Users\\HP\\Downloads\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shanu.kumar2\\source\\repos\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj": {
+    "C:\\Users\\HP\\Downloads\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shanu.kumar2\\source\\repos\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj",
         "projectName": "LoginSignupIdentity",
-        "projectPath": "C:\\Users\\shanu.kumar2\\source\\repos\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj",
-        "packagesPath": "C:\\Users\\shanu.kumar2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shanu.kumar2\\source\\repos\\LoginSignupIdentity\\LoginSignupIdentity\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Downloads\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\LoginSignupIdentity\\LoginSignupIdentity\\LoginSignupIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\shanu.kumar2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
